@@ -1,7 +1,7 @@
 import random
 
-SizeX = 6
-SizeY = 6
+SizeX = 8
+SizeY = 8
 board = [[0]*SizeY for i in range(SizeX)]
 mask = [[True]*SizeY for i in range(SizeX)]
 alphabet = ("A","B","C","D","E","F","G","H","I","J")

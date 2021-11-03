@@ -1,6 +1,6 @@
 # acit4420
 
-artefacts for
+Artefacts for:
 * Jupyter notebook
 * Conda
 * Anaconda

@@ -1,5 +1,7 @@
 # acit4420
 
-## dependencies
-* numpy=3.14
- 
+Artefacts for:
+* Jupyter notebook
+* Conda
+* Anaconda
+* Pandas
